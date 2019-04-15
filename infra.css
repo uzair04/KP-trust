@@ -1,0 +1,20 @@
+.infrastructure-cnt {
+  margin-top: 30px;
+}
+.infrastructure-cnt table {
+  width: 100%;
+}
+.infrastructure-cnt table tr td {
+  border: solid 1px #eee;
+  border-collapse: collapse;
+  padding: 10px 20px;
+}
+
+.infrastructure-cnt table ul {
+  padding-left: 10px;
+  margin: 0;
+}
+.infra-heading {
+  color: rgba(152, 72, 1);
+  font-weight: bold;
+}
